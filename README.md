@@ -5,8 +5,7 @@
 <p>Hello, I'm a software engineering undergraduate with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success . Skilled leader who has the proven ability to motivate, educate and manage a team. Also a hardworking, flexible, enthusiastic and self-motivated individual with a friendly attitude. I believe that I have good interpersonal and communication skills, which makes me getting along and working with people easily.</p>
 
  
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 # 🌐 Socials:
